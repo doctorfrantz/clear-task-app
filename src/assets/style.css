@@ -215,7 +215,7 @@ button {
 }
 input[type="text" i] {
   border: 0;
-  padding-left: 0;
+  padding-left: 15px;
   padding-right: 0;
   box-shadow: 0 1px 8px rgba(48, 49, 52, 0.3);
 }
