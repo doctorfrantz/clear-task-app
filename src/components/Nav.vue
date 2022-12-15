@@ -5,7 +5,6 @@
       <Dark />
     </div>
     <div class="nav-bar">
-      <!-- <PersonalRouter :route="route" :buttonText="buttonText" class="logo-link"/> -->
       <router-link to="/">
         <img
           class="navbar-img animate__animated animate__bounceIn"
@@ -23,7 +22,7 @@
           <router-link to="/account">Your Account</router-link>
         </li>
       </ul>
-      
+      <Dark />
       <div class="log-out">
         <ul class="log-out-elements animate__animated animate__bounceIn">
           <li class="log-out-welcome">

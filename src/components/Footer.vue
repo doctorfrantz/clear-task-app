@@ -11,7 +11,6 @@
       <div class="footer-text">
         <p>Alexis Frantz - 2022</p>
       </div>
-      <Dark />
     </div>
     <div class="footer-mobile">
       
@@ -44,7 +43,6 @@ import PersonalRouter from "./PersonalRouter.vue";
 import { supabase } from "../supabase";
 import { useUserStore } from "../stores/user";
 import { storeToRefs } from "pinia";
-import Dark from "./Dark.vue";
 
 const redirect = useRouter();
 
