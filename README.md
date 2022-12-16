@@ -10,11 +10,11 @@ For this project we have to make a Task Management App where the users can creat
 
 ### December 6
 
-Trying to understand what's going on. Some parts of the code are missing on purpose. I am not getting something.
+Trying to understand what's going on. Some parts of the code are missing on purpose and we have to figure out what to do. Although it might seem easier than doing everything from scratch (which probably is), I am not getting something.
 
 ### December 7
 
-I am having a bad time with Emmits, and I havent been able to invest time on the project because I had to work on other things.
+I am having a bad time with Emmits, and I havent been able to put hours on the project because I had to work on other things.
 
 ### December 8
 
